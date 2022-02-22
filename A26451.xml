@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to electors by a well-wisher to Parliaments, and one who will live and dye a friend to his country.</title>
+            <author>Well-wisher to Parliaments.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26451</idno>
+            <idno type="STC">Wing A646A</idno>
+            <idno type="STC">ESTC R13797</idno>
+            <idno type="EEBO-CITATION">25854616</idno>
+            <idno type="OCLC">ocm 25854616</idno>
+            <idno type="VID">109743</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109743)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1734:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to electors by a well-wisher to Parliaments, and one who will live and dye a friend to his country.</title>
+                  <author>Well-wisher to Parliaments.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Octob. 14th, 1695.</note>
+                  <note>Imprint suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: stained, with print show-through and some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Qualifications.</term>
+               <term>Legislative bodies --  England --  Officials and employees.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109743:1" rendition="simple:additions"/>
+            <head>ADVICE to <hi>ELECTORS;</hi> BY A <hi>Well-wiſher</hi> to <hi>PARLIAMENTS,</hi> and one who will live and dye a <hi>Friend</hi> to his <hi>Country.</hi>
+            </head>
+            <p>SEEING <hi>England</hi> can never be deſtroyed but by a <hi>Parliament,</hi> it greatly concerns thoſe who are empowered, to Elect Mem<g ref="char:EOLhyphen"/>bers to be very circumſpect whom they chooſe. And tho their own Miſtakes heretofore, of which they have felt the woful conſequences, may ſufficiently inſtruct them to behave them<g ref="char:EOLhyphen"/>ſelves with more Prudence and Fidelity than they did the laſt time, yet it may not be amiſs to point out ſome Meaſures unto them for their better conduct in ſo important Affair. All which, ſhall be ſo adjuſted to their Safety and Univerſal Intereſt, that thoſe of the meaneſt as well as beſt Underſtandings, ſhall be forced to acknow<g ref="char:EOLhyphen"/>ledge, that the regulating themſelves by them in what they are now called to do, will both become them in the diſcharge of their duty to God, Themſelves, and their Country, and prove the moſt ſubſer<g ref="char:EOLhyphen"/>vient means to their Defence, Proſperity and Happineſs. Wherein, that I may acquit my ſelf the better, and the more diſtinctly, and with all the brevity imaginable, I ſhall <hi>firſt</hi> repreſent the <hi>Characters</hi> of thoſe, whom all wiſe and good Men may be aſhamed as well as afraid to give their Suffrages unto, and then declare what <hi>qualities</hi> and <hi>properties</hi> are required in them, with whom we may ſecurely truſt the Concerns of the Nation at this critical Juncture. To begin there<g ref="char:EOLhyphen"/>fore with thoſe, whom all that conſult their own good, and that of their Poſterity, are induſtriouſly to preclude, and much more to avoid giving any countenance unto, they are ſuch as ſtand marked out, and deciphered by one or more of the Deſcriptions following.</p>
+            <p n="1">1. None ought to be choſen to diſpoſe of other Mens Eſtates, whom the Law diſables from managing their own; ſo that <hi>Minors</hi> who are not allowed the conduct of their own Perſonal and Dome<g ref="char:EOLhyphen"/>ſtick Concerns, are not to be eſteemed capable of tranſacting the
+<pb n="2" facs="tcp:109743:2"/>Affairs of the Kingdom. Such are fitter to be in <hi>Schools</hi> under the <hi>Ferula,</hi> than to have a Room in the <hi>Senate-Houſe,</hi> to concur in <hi>Enact<g ref="char:EOLhyphen"/>ing Laws.</hi> And of thoſe of 40 and 50, that Elect them of 16 and 19; eſcape the brand either of Fools or Knaves, for what they ſo pre<g ref="char:EOLhyphen"/>poſterouſly do; the favourableſt thing can be ſaid of both is, that the former are the <hi>Old Boys,</hi> and the latter the <hi>Young.</hi>
+            </p>
+            <p n="2">2. They who have neither <hi>Money</hi> nor <hi>Land</hi> of their own, to be burthened in common with the reſt of the <hi>Subjects,</hi> are no ways worthy to be entruſted with the <hi>beſtowing</hi> of the <hi>Treaſure</hi> of the <hi>Na<g ref="char:EOLhyphen"/>tion.</hi> It is a Diſhionour for the Nation, to have thoſe choſen into a <hi>Houſe</hi> of <hi>Commons,</hi> who could not eſcape being in Goal, but thro the Priviledge of ſitting there: So that all <hi>
+                  <g ref="char:V">Ʋ</g>nſolvent</hi> Perſons, who ſee to get into Parliament, that they may defraud their Creditors, and avoid legal Proſecutions for righteous Debts, ought to be held fitter to take <hi>Sanctuary</hi> in the <hi>Minories</hi> or <hi>White-Friers,</hi> than to have St. <hi>Stephen's Chapel</hi> vouchſafed them for an <hi>Azilum.</hi>
+            </p>
+            <p n="3">3. Nor do they deſerve to be eſteemed good <hi>Truſtees</hi> for the <hi>King<g ref="char:EOLhyphen"/>dom,</hi> who have not known how to <hi>husband</hi> what their <hi>Fathers</hi> and <hi>Anceſtors</hi> left them. For they will never be found good <hi>Stewards</hi> of other Mens Money, who have been laviſh and prodigal of their own. So that your Luxurious and Laſcivious <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bauchees,</hi> ſuch whom the <hi>Cenſors</hi> would have turned out of the <hi>Senate,</hi> tho of the <hi>Patrician</hi> Or<g ref="char:EOLhyphen"/>der are to be reckoned among the unquallified, for the conſtituting the <hi>Legiſlative Aſſembly</hi> of the Kingdom. And experience teaches us, that ſuch will be found waſting that time in Taverns, Gaming-houſes, or worſe Places, which they ought to devote in redreſſing the grievances of their Country, and the covering it from Oppreſſions.</p>
+            <p n="4">4. Such upon whoſe <hi>honeſty</hi> Men would not depend in the moſt tri<g ref="char:EOLhyphen"/>vial matter, are not to be thought Perſons duely qualified, for having all the Rights, Liberties, and Eſtates of <hi>England,</hi> ventured into their hands, and conſigned over by <hi>Indentures</hi> to their diſpoſal; nor will any but <hi>Fools,</hi> Elect ſuch as go under the Character of <hi>Knaves.</hi> So that thoſe whom their Neighbours in County, City, and Borough, would not truſt with the conveving one hundred pound for them to <hi>London;</hi> without better ſecurity for the diſcharge of that mean Truſt, then their own Faith and Honour, are not to have all that's valuable to <hi>Engliſh</hi> Men put into their Power to barter away, and raiſe. Fortunes by, to themſelves, when they come to <hi>Weſtminſter.</hi>
+            </p>
+            <p n="5">5. Perſons who have not much of their own, either <hi>Real</hi> or <hi>Perſo<g ref="char:EOLhyphen"/>nal,</hi> and ſo can looſe little or nothing by keeping out of the Houſe, but who propoſe the gaining a great deal, by getting into it, ought not to have the Suffrage of ſuch as would be held either wiſe or ho<g ref="char:EOLhyphen"/>neſt
+<pb n="3" facs="tcp:109743:2"/>to help them thither; ſeeing it is not the ſerving the Country; but themſelves, which they project and deſign. So that of all Men, your narrow fortuned Country <hi>Demagogues</hi> are to be precluded from being Deputies to a Parliament, ſeeing their Buſineſs when choſen will be to talk themſelves into Places by mutinous <hi>Harangues,</hi> and to keep them afterwards either by turning <hi>Silent,</hi> or by changing their <hi>Tone,</hi> who as they will connive at the ruine of the Nation by the firſt, ſo they will concur to haſten it by the ſecond.</p>
+            <p n="6">6. Such who purchaſe their being elected, whether it be by <hi>Money</hi> or great <hi>Entertainments</hi> which is equivalent, are by all the rules of Ju<g ref="char:EOLhyphen"/>ſtice and Wiſdom to be look'd upon, not only with jealouſie, but with diſdain. For if their <hi>Brains</hi> or <hi>Purſes</hi> be their own, they will not ſpend ſo prodigally, but upon formed Reſolutions of reimburſing themſelves what they lay out: And having g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ined Votes by drinking People out of their <hi>ſenſes,</hi> they will treat them afterwards anſwerable to the Cha<g ref="char:EOLhyphen"/>racter of <hi>Fools</hi> and <hi>Sots</hi> which they had made them.</p>
+            <p n="7">7. Neither are they to be accounted ſit <hi>Guardians</hi> of the Peoples <hi>Pri<g ref="char:EOLhyphen"/>vileges,</hi> or <hi>Stewards</hi> of their <hi>Money,</hi> who are the <hi>Menial Servants</hi> or the <hi>Partizans</hi> of a Court, that ſeek either to encroach upon their Rights, or that wanteth more of their Treaſure for carrying on its Deſigns, than the Subject can ſpare, or ſafely undergo. It is enough that the Law has but the chacting <hi>Fiat</hi> of <hi>Bills</hi> into the Sovereign's Hand, and it concerns the People in the whole they are worth, to keep the moulding or preparing them in others than thoſe, who neither know, nor will, but as the Prince directs as well as allows them.</p>
+            <p n="8">8. Whoſoever has more by a Place or an Office in the Government, than their own <hi>quota</hi> of a <hi>Tax</hi> can amount to, will never be good Husbands of their Purſes whom they are choſen to repreſent. For why ſhould they care what others feel, when their own ſhares are more then paid out of the Salaries and Perquiſites of their Places, eſpecially when they hold them by the tenour of never conſidering what the Country can give, but what their Royal Maſter is pleaſed to demand. So that to avoid Perſons of this Complexion, thoſe in the Kingdom who are truſted with the Right and Priviledge of chooſing Parliament Men, ought to take a Survey, and have a Liſt of the <hi>Commiſſioners</hi> of the <hi>Treaſury, Admiralty, Cuſtom-houſe, Exciſe-Office,</hi> &amp;c,</p>
+            <p n="9">9. Eſpecially, none ought to be choſen into Parliament, whoſe whole <hi>Subſiſtence</hi> and <hi>Livelihood</hi> ariſe out of <hi>Taxes,</hi> ſeeing ſuch will rather impoveriſh others, than ſubmit to ſtarve themſelves. So that <hi>Military Officers,</hi> whoſe <hi>Trade</hi> of <hi>War</hi> is upheld by laviſh Impoſitions on the <hi>Subject,</hi> are in no more conſiſtency with Reaſon to be elected
+<pb n="4" facs="tcp:109743:3"/>Members, than thoſe that live by Padding on the Road, are to be appointed <hi>Arbiters,</hi> what ſhall be taken from, or leſt with thoſe whom it is their buſineſs to rob.</p>
+            <p n="10">10. They who have neither <hi>Quality</hi> nor <hi>Merit</hi> to <hi>deſerve Honour,</hi> but yet who are ambitious of it, are as little qualified to be elected into Parliament, as any of thoſe I have already mentioned. Seeing to be advanced to the Titles they covet, their Pride baited with a<g ref="char:EOLhyphen"/>greeable <hi>Temptations,</hi> will influence them to give away whatſoever the People do poſſeſs. And whoſoever are inordinately ambitious, will make it their buſineſs to arrive at Grandeur, without conſider<g ref="char:EOLhyphen"/>ing the lawfulneſs or unlawfulneſs of the means by which they attain it: Who, when they have aſcended by the Peoples favour to the height which they aimed at, will inſult over and trample upon them, who made and furniſhed them with the <hi>Ladder.</hi> And in recompence for the Feathers they have put into their <hi>Caps,</hi> they will clap the <hi>Fools</hi> Coat upon their <hi>Backs,</hi> who gave them the Intereſt as well as the Opportunity to procure them.</p>
+            <p n="11">11. Neither are they who have <hi>betrayed</hi> their <hi>Country</hi> or <hi>abandoned</hi> the care of it in former <hi>Parliaments</hi> to be truſted again in this of any other: For upon whatſoever motives they behaved themſelves un<g ref="char:EOLhyphen"/>faithfully heretofore, and unbecoming the Truſt that was impoſed in them, they will do the like again, if luſtily baited in proportion to the luſt and paſſions that predominate over them, ſo that a little retro<g ref="char:EOLhyphen"/>ſpect will give ſuch <hi>Idea</hi>'s of many, as may ſerve honeſt Men to go<g ref="char:EOLhyphen"/>vern themſelves by, in the Elections they are to make: Only let them remember that the Character of <hi>Knavo,</hi> which belongs entirely to them, who deceived them <hi>once,</hi> will the next time be their own <hi>lot</hi> with the addition of <hi>Fool</hi> to boot; if they give them the ſame oppor<g ref="char:EOLhyphen"/>tunity of deceiving them again. Nor are they who have through <hi>Bi<g ref="char:EOLhyphen"/>gottry</hi> or Diſloyalty overthrown one Branch of the <hi>Conſtitution,</hi> to be truſted with the <hi>Guardianſhip</hi> of the <hi>Remainder:</hi> For ſuch as have alie<g ref="char:EOLhyphen"/>nated thoſe Rights, which by all the Laws of the Land were rendred moſt inviolable, will not be conſcientious or zealous on this foot of Principles for preſerving the Priviledges and Immunities of others: Not but that there is a difference to be made, between them who have acquieſted in what they could not prevent, and thoſe that have ſub<g ref="char:EOLhyphen"/>verted what was moſt <hi>Sacred</hi> in the Government, upon <hi>Republicane</hi> Proſpects and Inducements of Ambition and Covetouſneſs. And tho' the preſent King may be ſafe in theſe Mens hands, while they can ſerve their ends by him. Yet as Kingſhip is not, ſo neither will be be any longer, than they can raiſe themſelves to Power and Intereſt, to change the <hi>Monarchy</hi> into a <hi>Common-wealth.</hi>
+            </p>
+            <p n="12">
+               <pb n="5" facs="tcp:109743:3"/> 12. Of all Men they are not only the <hi>
+                  <g ref="char:V">Ʋ</g>nworthieſt</hi> to ſerve again in <hi>Parliament,</hi> but to be abhorred as <hi>Betrayers</hi> of their <hi>Country,</hi> who in any Parliament heretofore, are either known, or juſtly ſuſpected to have been <hi>Penſioners:</hi> Seeing the only reaſon why ſuch Perſons are bought by others, is their having <hi>Inclinations,</hi> and their being in a <hi>capacity</hi> to <hi>ſell</hi> the <hi>Nation.</hi> For it is only their <hi>Treachery</hi> that makes them valuable at a <hi>Court,</hi> and not Parts or Ability for National and Honourable Service. And all Men have cauſe to believe, that they who have bargain'd for, and ſold them ſo often, will deliver them at laſt, if they be but offered a Price accordingly. Nor do we de<g ref="char:EOLhyphen"/>ſerve better, if we be ſo <hi>ſottiſh,</hi> as to elect them again, whom ei<g ref="char:EOLhyphen"/>ther certain Intelligence or common Fame have divulged, for making Merchandize of the People, to enrich themſelves: Of whom I need not give a Catalogue, there being ſome in all parts of the Kingdom, that can both publiſh their Names, and proclaim their Infamy.</p>
+            <p n="13">13. Nor are they worthy to be choſen to ſerve in a Houſe of Commons, who are recommended by ſuch as have other <hi>Ends</hi> to ſerve, than thoſe of their Country; they whom their own Merit cannot advance at Court, ought not to be relied upon in their So<g ref="char:EOLhyphen"/>licitations for any to be Members of <hi>Parliament;</hi> ſeeing all they aim at, is by gaining the Votes of the People for their Favourites, to render them <hi>Tools</hi> by whom they then form themſelves into <hi>Mercuries</hi> at <hi>Whitchall,</hi> where otherwiſe they would be over-look'd as uſeleſs Blocks, whilſt otherwiſe they are.</p>
+            <p n="14">14. To which I add in the laſt place, that they who value them<g ref="char:EOLhyphen"/>ſelves upon the favour or credentials of Perſons owning a Foreign de<g ref="char:EOLhyphen"/>pendance are to be treated with the diſdain, which is due to thoſe de<g ref="char:EOLhyphen"/>tached from the <hi>Intereſt</hi> of <hi>England,</hi> and who are become embarked in that of an <hi>Outlandiſh</hi> People; for conſidering the influence that Stran<g ref="char:EOLhyphen"/>gers have either by themſelves, or by thoſe that are their Creatures, upon all the Revolutions of Eſtate, we may eaſily foreſee, that nothing is wanting to the making us a <hi>Province</hi> to thoſe that <hi>Rival</hi> us in <hi>Trade,</hi> or to the giving us up a <hi>Sacrifice</hi> to their luſt and pleaſure, but the get<g ref="char:EOLhyphen"/>ting ſuch into our <hi>Senate-houſe,</hi> who tho <hi>Natives</hi> by Birth, are bribed to be <hi>Aliens</hi> by Inclinations.</p>
+            <p>It may be now apprehended, that if all thoſe I have repreſented be unqualified to ſerve in Parliament, there will be very few found whom the People may wiſely chooſe, or ſafely truſt, and tho to the reproach of the Nation, it is too likely that it may be ſo, yet I muſt diſplay ſuch Properties requirable in thoſe to be elected, as will render the finding them ſtill more difficult, tho I hope not impoſſible.</p>
+            <p n="1">
+               <pb n="6" facs="tcp:109743:4"/> 1. It is needful then they ſhould be Perſons of <hi>good ſenſe,</hi> that they may not be eaſily miſled, nor <hi>wheedled</hi> out of their own <hi>Rights,</hi> and <hi>thoſe</hi> of the <hi>Nation.</hi> Tho Money may be thought enough to recom<g ref="char:EOLhyphen"/>mend one to be an Alderman, or Lord Mayor, yet a little <hi>Wit</hi> and ſome meaſure of <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> are needful to qualifie <hi>one</hi> to be a Mem<g ref="char:EOLhyphen"/>ber of a <hi>Legiſtative Body</hi> of the Kingdom. I do not mean he ſhould be a <hi>Philoſopher,</hi> but he ſhould underſtand ſomething of the <hi>Conſtitution,</hi> and how to conduct Publick Affairs.</p>
+            <p n="2">2. They ſhould not only be Men of <hi>exact honeſty,</hi> but of undaun<g ref="char:EOLhyphen"/>ted <hi>fortitude,</hi> who as they are not to be bribed, ſo they will not endure to be <hi>hoctored;</hi> not that I would have them rude or unmannerly to their Prince, but only bold and zealous in aſſerting and vindicating the Rights of their Country.</p>
+            <p n="3">3. They ought to be Men of ſome conſiderable <hi>Fortune</hi> themſelves, who may be encouraged to <hi>protect</hi> other Mens Eſtates upon the mo<g ref="char:EOLhyphen"/>tives of defending their own.</p>
+            <p n="4">4. They ſhould be Gentlemen recommended well <hi>affected</hi> to their <hi>Country,</hi> who may thereby render whatſoever is grievous in it ſelf, tho neceſſary to be granted, not only patiently ſubmitted unto, but chear<g ref="char:EOLhyphen"/>fully approved of.</p>
+            <p n="5">5. They are to be Perſons not only well inclined, but unalterably <hi>principled</hi> as to the <hi>goodneſs</hi> of our <hi>Conſtitution</hi> above all other <hi>Forms</hi> of Soveraign Rule and Authority; otherwiſe they will over-tax the Peo<g ref="char:EOLhyphen"/>ple under pretence to ſupport the Government, but in reality to over<g ref="char:EOLhyphen"/>throw it.</p>
+            <p n="6">6. Nor ought they to be People <hi>indifferent</hi> about or <hi>Heretical</hi> in <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> ſeeing the State is ſo inter-woven with the <hi>Church,</hi> that who<g ref="char:EOLhyphen"/>ever endeavours to ſupplant the one, will be found to ſhake the to<g ref="char:EOLhyphen"/>ther. Which I do therefore intimate, becauſe they who have for ſe<g ref="char:EOLhyphen"/>veral years been <hi>ſpawning</hi> among us a <hi>Socinian Chriſtianity,</hi> do begin to <hi>palm</hi> upon us a new <hi>frame</hi> of <hi>Civil Policy,</hi> and who by their late prints obtruded upon the Nation, are deſigning to mould the <hi>Kingdom</hi> into conformity with a <hi>little Corporation.</hi>
+            </p>
+            <p n="7">7. They ought to be ſuch, who tho favourers of a due <hi>liberty</hi> in <hi>Re<g ref="char:EOLhyphen"/>ligious matters,</hi> yet have a hearty concern for preſerving the <hi>Eccleſia<g ref="char:EOLhyphen"/>ſtical Order</hi> and <hi>Diſcipline,</hi> that are at preſent eſtabliſhed. For as thoſe of the National Communion are by far the moſt conſiderable for num<g ref="char:EOLhyphen"/>ber, quality and intereſt, ſo there are few Diſſenters in the Kingdom capable to defend our Common Religion, when vigorouſly attacked either by Arguments or Force: If we ſhould diſoblige or diſcourage thoſe I have mentioned from appearing to vindicate and protect it; and beſides they have not only as many but more Laws to ſecure
+<pb n="7" facs="tcp:109743:4"/>them in their Claims, then any other rank of People whatſoever hath for its Properties, ſo that whoſoever take upon them to overthrow their eſtabliſhment, may with as much reaſon as well as right disfran<g ref="char:EOLhyphen"/>thiſe the Body of their People of <hi>England.</hi>
+            </p>
+            <p n="8">8. Nor would it do amiſs to get ſuch every where returned, as may ſeriouſly examin, whether any thing be at all needful to be levyed of the People at this time, for ſupport of the Government; ſeeing it can ſo liberally alienate away, and bequeath both the ancient Lands of the Crown, and what we call the late forfeited Eſtates upon its <hi>Mi<g ref="char:EOLhyphen"/>nions.</hi> For it was never heretofore found, that Impoſitions were laid upon the ſubject to ſpare the Inheritance of, and Incidents to the Throne, and much leſs to encourage the ſquandring them away in Donatives, but only to ſupply thoſe deficiencies, which the Royal Treaſure could not anſwer and defray.</p>
+            <p n="9">9. It will be but congruous to Juſtice as well as to Prudence, that ſuch may be choſen to diſpoſe the Money of the Nation, as will not only enquire, but be ſatisfied before they grant any, how much is neceſſary to be given; for thereby we ſhall only bear the Burthen of our own <hi>quota,</hi> and not undergo the Charge incumbent upon all the <hi>Confederates,</hi> or at leaſt the greateſt part of them. In the doing whereof, we may be thought <hi>Rich,</hi> and with all <hi>Prodigal,</hi> but will never be called <hi>Wiſe</hi> nor <hi>Diſcreet.</hi>
+            </p>
+            <p n="10">10. All Men will find it their Intereſt to chuſe ſuch, as may not only conſider what is demanded, but what the Kingdom is in a <hi>con<g ref="char:EOLhyphen"/>dition</hi> to give. Seeing otherwiſe we pull only ruin upon our ſelves, in order to preſerve others; and will meet with no better recom<g ref="char:EOLhyphen"/>pence from thoſe whom we are endeavouring to defend, than to be ſtiled <hi>Fools</hi> for our pains.</p>
+            <p n="11">11. Thoſe upon whom the right of repreſenting the Nation in Par<g ref="char:EOLhyphen"/>liament is to be devolved, ought to be Perſons, who before they grant more Money, may exact a <hi>ſtrict impartial account</hi> how that hath been <hi>laid out,</hi> which the Kingdom hath already ſo liberally granted, being if not applied to the Uſes it was deſigned, and par<g ref="char:EOLhyphen"/>ticularly to the preſerving our <hi>Navigation</hi> and <hi>Trade,</hi> our Treaſure as to us, is only impertinently waſted, and we impoveriſhed to no purpoſe, or to ſuch purpoſes as we reap no Benefit by, and it may be know nothing of.</p>
+            <p n="12">12. Is will be both convenient and neceſſary, that thoſe choſen to ſerve at this time, be Men of ſuch Integrity to their <hi>Country,</hi> that as they are to give from the People with one Hand, they may get ſomething for them with the other. That is, that they may not part with ſo much <hi>Treaſure</hi> as will be required, without procuring ſome
+<pb n="8" facs="tcp:109743:5"/>
+               <hi>good</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>beneficial Laws</hi> in the room of it. I do not mean that they <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould pare from the <hi>Crown</hi> any of its eſſential and neceſſary Pre<g ref="char:EOLhyphen"/>rogatives, but only that they would repair and ſtrengthen the Fences about the Peoples Liberties, and make ſuch Pro<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s againſt our <hi>trafficking</hi> and <hi>eneroaching Allies,</hi> as that we may not prove a Prey to them upon the expiration of the Confederacy.</p>
+            <p>What hath been here briefly repreſented, required more room to enlarge upon, than the Deſign of this Paper and Undertaking would allow: But if judged neceſſary, the enforcement of all theſe Heads are ready, with the ſeveral Reaſons proper to ſupport and give effi<g ref="char:EOLhyphen"/>cacy to them; which being rather needful to juſtify the Sincerity of the Author, than further to influence thoſe to whom this Sheet is addreſſed, is therefore at preſent ſuperceded, but ſhall be publickly exhibited, whenſoever called for, or demanded.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 14th, 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
